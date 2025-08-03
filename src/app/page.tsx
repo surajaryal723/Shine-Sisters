@@ -25,7 +25,7 @@ export default function Home() {
             We’re still live on Instagram — message us to place orders, explore
             our collection, or say hello.
           </h2>
-          <Image src={"/aakriti-photo.jpg"} alt="aakriti-photo" height={100} width={100}/>
+          
           <div className="w-full flex flex-col items-center justify-center gap-4 mt-8">
            
             <a href="https://www.instagram.com/shine_sisters_2/" className="px-[24px] py-[12px] text-white bg-[#590316] rounded-sm">DM US TO PLACE AN ORDER </a>
