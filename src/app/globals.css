@@ -1,1 +1,25 @@
 @import "tailwindcss";
+@font-face {
+    font-family: "ShineSisters";
+    src: url("/fonts/Ivy-Presto-Display-.woff2") format("woff2");
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "ShineSisters";
+    src: url("/fonts/SS-SemiBold.woff2") format("woff2");
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "ShineSisters";
+    src: url("/fonts/SS-Light.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+}
+
+.font-shine {
+    font-family: "ShineSisters", sans-serif;
+}
