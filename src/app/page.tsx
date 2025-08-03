@@ -13,7 +13,7 @@ export default function Home() {
         />
       </header>
       <main className="w-full  flex flex-col items-center  justify-center p-5">
-        <h1 className="lg:text-[5rem] text-[2.5rem] font-shine font-medium text-[#590316]">
+        <h1 className="lg:text-[5rem] text-[2.5rem] text-center font-shine font-medium text-[#590316]">
           Website Coming Soon!
         </h1>
         <h4 className="text-center text-lg lg:w-[50%] mt-2">
